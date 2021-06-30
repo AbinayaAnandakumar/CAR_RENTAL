@@ -60,6 +60,7 @@ These are the scripting languages and environment used in this module
 These are the main goals of this module 
 
 	- The customer can choose their favourite & comfortable car in the available car listed.
+	
         - The customer can select their car in terms of model, brands and prices.
 
 	
