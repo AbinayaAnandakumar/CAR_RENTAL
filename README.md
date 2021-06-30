@@ -61,7 +61,7 @@ These are the main goals of this module
 
 	- The customer can choose their favourite & comfortable car in the available car listed.
         
-      - The customer can select their car in terms of model, brands and prices.
+       - The customer can select their car in terms of model, brands and prices.
 
 	
 These are the scripting languages and environment used in this module 
@@ -80,11 +80,11 @@ These are the scripting languages and environment used in this module
 
 These are the main goals of this module
 
-	-  The customer need to select the start and end date.
+	- The customer need to select the start and end date.
 
-	-  Based on the Km and Ac requirements chosen, the price will be displayed.
+	- Based on the Km and Ac requirements chosen, the price will be displayed.
 
-        -  Finally the customers  desired car will be booked.
+        - Finally the customers  desired car will be booked.
 
 These are the scripting languages and environment used in this module 
 
