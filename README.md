@@ -103,7 +103,7 @@ These are the scripting languages and environment used in this module
 These are the main goals of this module
 
 	-   The invoice department will generate the bill for the car. 
-
+       
         -   After verification the amount will be paid by the customer. 
 
 These are the scripting languages and environment used in this module 
@@ -116,7 +116,7 @@ These are the scripting languages and environment used in this module
 	
 	- MYSQL is the main database.
 
-This application is written in Java.
+This application is written in PHP.
 
 - [PHP]( https://github.com/php)
  
